@@ -6,7 +6,7 @@ Library           OperatingSystem
 Library           Collections
 
 *** Variables ***
-${DBHost}         192.168.1.18
+${DBHost}         192.168.1.148
 ${DBName}         db
 ${DBPass}         "password"
 ${DBPort}         5432
