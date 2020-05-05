@@ -6,11 +6,11 @@ Library           OperatingSystem
 Library           Collections
 
 *** Variables ***
-${DBHost}         192.168.1.148
+${DBHost}         192.168.1.18
 ${DBName}         db
-${DBPass}         "password99"
+${DBPass}         "password"
 ${DBPort}         5432
-${DBUser}         postgres99
+${DBUser}         postgres
 
 *** Test Cases ***
 TestDB
