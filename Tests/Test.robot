@@ -8,9 +8,9 @@ Library           Collections
 *** Variables ***
 ${DBHost}         192.168.1.148
 ${DBName}         db
-${DBPass}         "password"
+${DBPass}         "password99"
 ${DBPort}         5432
-${DBUser}         postgres
+${DBUser}         postgres99
 
 *** Test Cases ***
 TestDB
